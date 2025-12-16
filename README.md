@@ -1,5 +1,9 @@
 <div>
-  <img src="![generated-image_(2)](https://github.com/user-attachments/assets/d72a9484-d7ee-48e4-a9b6-38a431d7b00a)" alt="banner" width="100%" />
+  <img
+    src="https://github.com/user-attachments/assets/d72a9484-d7ee-48e4-a9b6-38a431d7b00a"
+    alt="banner"
+    width="100%"
+  />
 </div>
 <div align=center><h1>📚 STACKS</h1></div>
 
